@@ -97,3 +97,6 @@ os.system(r'C:/B/uploadFiles.exe "C:\A\1.png" "C:\A\2.png" ')
 
 time.sleep(5)
 driver.quit()  # 关闭并退出浏览器
+
+
+print("hello")
